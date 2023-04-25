@@ -1,5 +1,3 @@
-const books = require("../../test/fixtures/books.fixture.js");
-const authors = require("../../test/fixtures/authors.fixture.js");
 //helper functions
 //pulled from books.js
 function sortBooksBorrowedStatus(books) {
