@@ -40,3 +40,4 @@ module.exports = {
     partitionBooksByBorrowedStatus,
     getBorrowersForBook,
 };
+console.log("this is all for testing no other commits were made");
